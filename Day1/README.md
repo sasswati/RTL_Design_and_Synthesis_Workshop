@@ -44,22 +44,22 @@ Synthesizer:
 
 
 #LAB 1: 
-Setting up and understanding the layout
+- Setting up and understanding the layout
 
 
 #LAB 2:
-Observations: sel = 0, y = i0
-            : sel = 1, y = i1
+- Observations: sel = 0, y = i0
+              : sel = 1, y = i1
 
   <img width="1470" height="956" alt="Output of tb_good_mux.v" src="https://github.com/user-attachments/assets/1d72ce00-1242-4bd4-b68b-63cbef8e5ac2" />
 
 
 #LAB 3:
-Output:
-ABC RESULTS:   sky130_fd_sc_hd__mux2_1 cells:        1
-ABC RESULTS:        internal signals:        0
-ABC RESULTS:           input signals:        3
-ABC RESULTS:          output signals:        1
+- Output:
+ ABC RESULTS:   sky130_fd_sc_hd__mux2_1 cells:        1
+ ABC RESULTS:        internal signals:        0
+ ABC RESULTS:           input signals:        3
+ ABC RESULTS:          output signals:        1
 
 <img width="1470" height="956" alt="Netlist File of good_mux.v" src="https://github.com/user-attachments/assets/612039ea-4e20-43b9-85da-87245f88ac13" />
 
