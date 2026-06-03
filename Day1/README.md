@@ -60,8 +60,10 @@ Synthesizer:
 ---
 
 #LAB 3:
+
 - Output:
-  ```text
+
+```text
 ABC RESULTS:   sky130_fd_sc_hd__mux2_1 cells:        1
 ABC RESULTS:        internal signals:        0
 ABC RESULTS:           input signals:        3
