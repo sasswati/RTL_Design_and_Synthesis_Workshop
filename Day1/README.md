@@ -71,8 +71,9 @@ ABC RESULTS:          output signals:        1
 ```
 
 <img width="1470" height="956" alt="Graphical Representation of good_mux.v" src="https://github.com/user-attachments/assets/612039ea-4e20-43b9-85da-87245f88ac13" />
-
 <br>
+
+
 
 - Netlist File
 
