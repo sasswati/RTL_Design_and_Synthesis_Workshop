@@ -44,6 +44,7 @@
 # **Sequential Optimization for Unused Outputs**
 
 ## counter_opt
-<img width="1470" height="956" alt="Graphical Representation of counter_opt" src="https://github.com/user-attachments/assets/80322a62-c8fc-47cd-bd0b-907ba1eb79ec" />
+<img width="1470" height="956" alt="Graphical Representation of counter_opt" src="https://github.com/user-attachments/assets/d3628d92-b6b1-45af-a35a-f852265e7116" />
+
 
 
