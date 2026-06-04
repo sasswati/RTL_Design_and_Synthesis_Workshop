@@ -12,6 +12,8 @@
 
 <br>
 
+---
+
 ## bad_mux
 <img width="1470" height="956" alt="tb_bad_mux.vcd" src="https://github.com/user-attachments/assets/4fddf0bc-f52d-472d-ac44-892ead869d17" />
 
