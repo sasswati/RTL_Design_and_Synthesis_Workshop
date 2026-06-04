@@ -39,5 +39,11 @@
 
 <img width="1470" height="956" alt="Graphical Representation of dff_const3" src="https://github.com/user-attachments/assets/b436e11f-9158-42e5-8af2-d83aefcff994" />
 
+---
+
+# **Sequential Optimization for Unused Outputs**
+
+## counter_opt
+<img width="1470" height="956" alt="Graphical Representation of counter_opt" src="https://github.com/user-attachments/assets/80322a62-c8fc-47cd-bd0b-907ba1eb79ec" />
 
 
