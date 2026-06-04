@@ -19,3 +19,5 @@
 
 <img width="1470" height="956" alt="Graphical Representation of incomp_case" src="https://github.com/user-attachments/assets/ecc6673c-f463-41e4-a198-b62088f4ab20" />
 
+## comp_case
+<img width="1470" height="956" alt="tb_comp_case.vcd" src="https://github.com/user-attachments/assets/58decbca-79e5-4ffd-86ed-b841217374b9" />
