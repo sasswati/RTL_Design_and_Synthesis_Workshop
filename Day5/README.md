@@ -16,3 +16,6 @@
 
 ## incomp_case
 <img width="1470" height="956" alt="tb_incomp_case.vcd" src="https://github.com/user-attachments/assets/7abeae87-1e68-4753-b2ac-a0a2d317fa3c" />
+
+<img width="1470" height="956" alt="Graphical Representation of incomp_case" src="https://github.com/user-attachments/assets/ecc6673c-f463-41e4-a198-b62088f4ab20" />
+
