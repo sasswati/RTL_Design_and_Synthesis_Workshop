@@ -132,3 +132,11 @@ endmodule
 
 The below presents the sub module level design.
 <img width="1470" height="956" alt="Graphical Representation of sub_module1" src="https://github.com/user-attachments/assets/dcf40f87-8d5c-4217-9e81-7d52203b2651" />
+
+---
+
+# **FLOPS**
+
+## Asynchronous Reset
+<img width="1470" height="956" alt="Asynchronous Reset" src="https://github.com/user-attachments/assets/a82d9ac3-8d7d-4c80-a03d-0a4fb88695f2" />
+
