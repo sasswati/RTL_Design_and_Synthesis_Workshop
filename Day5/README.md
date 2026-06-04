@@ -7,3 +7,5 @@
 
 ## incomp_if2
 <img width="1470" height="956" alt="tb_incomp_if2.vcd" src="https://github.com/user-attachments/assets/c1ebc024-ad06-4994-aa89-f014160b7752" />
+
+<img width="1470" height="956" alt="Graphical Representation of incomp_if2" src="https://github.com/user-attachments/assets/6e7d4b75-47e8-402e-b949-aefbeb00780e" />
