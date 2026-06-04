@@ -137,23 +137,24 @@ The below presents the sub module level design.
 
 # **FLOPS**
 
-## Asynchronous Reset
+## GTKWave
+### Asynchronous Reset
 <img width="1470" height="956" alt="Asynchronous Reset" src="https://github.com/user-attachments/assets/a82d9ac3-8d7d-4c80-a03d-0a4fb88695f2" />
 
-## Asyncrhonous Set
-
+### Asyncrhonous Set
 <img width="1470" height="956" alt="Asynchronous Set" src="https://github.com/user-attachments/assets/89dc8ced-58d6-4e5e-acdc-c0fe56940ba8" />
 
-## Synchronous Reset
+### Synchronous Reset
 <img width="1470" height="956" alt="Synchronous Reset" src="https://github.com/user-attachments/assets/5d1d326a-a292-45e8-80dd-4cf8547c9b76" />
 
-## Synthesis
+<br>
 
+## Synthesis
 ### Asynchronous Reset
 <img width="1470" height="956" alt="Graphical Representation of Asynchronous Reset" src="https://github.com/user-attachments/assets/57e0ede5-f79e-4024-b001-22862784102b" />
 
-
 ### Asyncrhonous Set
+<img width="1470" height="956" alt="Graphical Representation of Asynchronous Set" src="https://github.com/user-attachments/assets/c7a6d583-d467-4c1c-8acb-f09a23b78f37" />
 
 
 ## Synchronous Reset
