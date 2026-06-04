@@ -26,3 +26,9 @@
 
 ## blocking_caveat
 <img width="1470" height="956" alt="tb_blocking_caveat.vcd" src="https://github.com/user-attachments/assets/9bd30a9d-ded8-460c-bf5e-646e54f2c176" />
+
+<img width="1470" height="956" alt="Graphical Representation of blocking_caveat" src="https://github.com/user-attachments/assets/6224bfa6-b627-4270-9685-6f89984105f2" />
+
+#### GLS Output
+<img width="1470" height="956" alt="GLS Output of tb_blocking_caveat.vcd" src="https://github.com/user-attachments/assets/8f9e11f9-b3cf-49cc-aeac-41a2da0273e8" />
+
