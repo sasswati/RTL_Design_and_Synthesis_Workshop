@@ -46,5 +46,7 @@
 ## counter_opt
 <img width="1470" height="956" alt="Graphical Representation of counter_opt" src="https://github.com/user-attachments/assets/d3628d92-b6b1-45af-a35a-f852265e7116" />
 
+## counter_opt (using 3 flops)
+<img width="1470" height="956" alt="Graphical Representation of counter_opt(3 Flops)" src="https://github.com/user-attachments/assets/f63f6f24-5428-4fac-a7ee-be2c2f338867" />
 
 
