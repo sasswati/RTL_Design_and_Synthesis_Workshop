@@ -20,3 +20,9 @@
 #### GLS Output
 <img width="1470" height="956" alt="GLS Output of tb_bad_mux.vcd" src="https://github.com/user-attachments/assets/8636db83-d68f-41c0-9fef-4fe389bf9e3e" />
 
+---
+
+# **LABS ON SYNTH_SIM MISMATCH**
+
+## blocking_caveat
+<img width="1470" height="956" alt="tb_blocking_caveat.vcd" src="https://github.com/user-attachments/assets/9bd30a9d-ded8-460c-bf5e-646e54f2c176" />
