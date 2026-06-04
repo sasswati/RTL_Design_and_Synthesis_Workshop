@@ -10,7 +10,7 @@
 
 ---
 
-#**LAB 5**
+# **LAB 5**
 - vcd file used: multiple_modules.v
   
 <img width="1470" height="956" alt="Graphical Representation of multiple_modules.v" src="https://github.com/user-attachments/assets/68ef210d-7e6a-4fba-a805-7e779ca427fd" />
