@@ -80,6 +80,7 @@ endmodule
 The below represents flat design.
 <img width="1470" height="956" alt="Graphical Representation of Flat multiple_modules.v" src="https://github.com/user-attachments/assets/88f5c29b-b856-4ec5-8a8c-db5ff4a8fd3d" />
 
+<br>
 
 ## Netlist of multiple_modules_flat.v
 
