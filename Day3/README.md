@@ -14,3 +14,6 @@
 # **LAB 7**
 
 <img width="1470" height="956" alt="tb_dff_const1.vcd" src="https://github.com/user-attachments/assets/f49f1ed0-b77a-438a-97e7-cd8cf840f648" />
+
+<img width="1470" height="956" alt="tb_dff_const2.vcd" src="https://github.com/user-attachments/assets/6d6426da-5a53-4e29-a644-c66fef47d9ab" />
+
