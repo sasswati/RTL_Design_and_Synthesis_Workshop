@@ -144,5 +144,17 @@ The below presents the sub module level design.
 
 <img width="1470" height="956" alt="Asynchronous Set" src="https://github.com/user-attachments/assets/89dc8ced-58d6-4e5e-acdc-c0fe56940ba8" />
 
-## Synchronous Set
+## Synchronous Reset
 <img width="1470" height="956" alt="Synchronous Reset" src="https://github.com/user-attachments/assets/5d1d326a-a292-45e8-80dd-4cf8547c9b76" />
+
+## Synthesis
+
+### Asynchronous Reset
+<img width="1470" height="956" alt="Graphical Representation of Asynchronous Reset" src="https://github.com/user-attachments/assets/57e0ede5-f79e-4024-b001-22862784102b" />
+
+
+### Asyncrhonous Set
+
+
+## Synchronous Reset
+
