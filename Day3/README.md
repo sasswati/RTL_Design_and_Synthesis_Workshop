@@ -31,3 +31,13 @@
 <img width="1470" height="956" alt="Graphical Representation of dff_const2" src="https://github.com/user-attachments/assets/b49747fc-96bb-476f-b439-075ea1d51694" />
 
 
+## dff_const3
+<img width="1470" height="956" alt="tb_dff_const3.vcd" src="https://github.com/user-attachments/assets/c977b73e-6418-47d0-8655-8d8e520b332b" />
+
+<br>
+<br>
+
+<img width="1470" height="956" alt="Graphical Representation of dff_const3" src="https://github.com/user-attachments/assets/b436e11f-9158-42e5-8af2-d83aefcff994" />
+
+
+
