@@ -127,3 +127,8 @@ module multiple_modules(a, b, c, y);
   assign \u2.y  = _5_;
 endmodule
 ```
+
+<br>
+
+The below presents the sub_module1.
+<img width="1470" height="956" alt="Graphical Representation of sub_module1" src="https://github.com/user-attachments/assets/dcf40f87-8d5c-4217-9e81-7d52203b2651" />
