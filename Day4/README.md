@@ -7,7 +7,7 @@
 
 <img width="1470" height="956" alt="Graphical Represenation of ternary_operator_mux" src="https://github.com/user-attachments/assets/06b7b3a6-b61f-4012-97cc-6e8bcb652847" />
 
-### GLS Output
+#### GLS Output
 <img width="1470" height="956" alt="GLS Output of tb_ternary_operator_mux.vcd" src="https://github.com/user-attachments/assets/dd4692ce-238b-49ac-a360-6865c99714fa" />
 
 <br>
@@ -15,6 +15,6 @@
 ## bad_mux
 <img width="1470" height="956" alt="tb_bad_mux.vcd" src="https://github.com/user-attachments/assets/4fddf0bc-f52d-472d-ac44-892ead869d17" />
 
-### GLS Output
+#### GLS Output
 <img width="1470" height="956" alt="GLS Output of tb_bad_mux.vcd" src="https://github.com/user-attachments/assets/8636db83-d68f-41c0-9fef-4fe389bf9e3e" />
 
