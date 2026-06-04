@@ -9,3 +9,7 @@
 
 ### GLS Output
 <img width="1470" height="956" alt="GLS Output of tb_ternary_operator_mux.vcd" src="https://github.com/user-attachments/assets/dd4692ce-238b-49ac-a360-6865c99714fa" />
+
+## bad_mux
+
+<img width="1470" height="956" alt="tb_bad_mux.vcd" src="https://github.com/user-attachments/assets/4fddf0bc-f52d-472d-ac44-892ead869d17" />
